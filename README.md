@@ -35,6 +35,6 @@ Mình có soạn thảo và liệt kê chi tiết cách sử dụng các chức 
 Nếu các bạn có nhu cầu muốn tham khảo, hãy ấn vào [**đây**](https://express-shop-api.tulam.xyz/api/v1/docs) để đọc chi tiết cách sử dụng API này.
 # [**RESULT**](#result)
 <p align="center">
-    <img src="./Screenshot from 2024-03-28 20-39-45.png" width=800 />
+    <img src="./result.png" width=800 />
 </p>
 <h3 align="center">
